@@ -2,6 +2,7 @@
 
 Blockchain/
 
+*.log
 *.ipc
 
 # End of Blockchain gitignore
