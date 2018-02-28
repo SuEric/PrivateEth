@@ -1,0 +1,1 @@
+geth --identity "MyTestNetNode" --datadir ./ --nodiscover --networkid 1999 console
