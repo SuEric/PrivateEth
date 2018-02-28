@@ -4,6 +4,8 @@ geth/
 keystore/
 history
 
+*.ipc
+
 # End of Blockchain gitignore
 
 # Created by https://www.gitignore.io/api/linux,macos,windows,sublimetext,visualstudiocode
