@@ -1,1 +1,1 @@
-geth --identity "MyTestNetNode" --datadir ./ --nodiscover --networkid 1999 console
+geth --identity "MyTestNetNode" --datadir ./Blockchain --nodiscover --networkid 1999 console
