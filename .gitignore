@@ -1,8 +1,6 @@
 # Blockchain gitignore
 
-geth/
-keystore/
-history
+Blockchain/
 
 *.ipc
 
