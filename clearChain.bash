@@ -1,0 +1,1 @@
+geth removedb --datadir ./BlockChain
