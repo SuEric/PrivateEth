@@ -5,6 +5,9 @@ Blockchain/
 *.log
 *.ipc
 
+# Ignore dist folder
+dist/
+
 # End of Blockchain gitignore
 
 # Created by https://www.gitignore.io/api/linux,macos,windows,sublimetext,visualstudiocode
