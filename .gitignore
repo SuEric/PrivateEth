@@ -1,6 +1,6 @@
 # Blockchain gitignore
 
-Blockchain/
+/Blockchain
 
 *.log
 *.ipc
