@@ -1,1 +1,1 @@
-geth removedb --datadir ./BlockChain
+geth removedb --datadir ../../..Blockchain
